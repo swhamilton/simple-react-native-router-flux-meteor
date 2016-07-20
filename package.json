@@ -1,0 +1,14 @@
+{
+  "name": "SimpleMeteor",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "15.2.1",
+    "react-native": "0.29.2",
+    "react-native-meteor": "^1.0.0-rc14",
+    "react-native-router-flux": "^3.31.1"
+  }
+}
